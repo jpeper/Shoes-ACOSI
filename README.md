@@ -1,5 +1,5 @@
 
-#Shoes-ACOSI: A Dataset for Aspect-Based Sentiment Analysis with Implicit Opinion Extraction
+# Shoes-ACOSI: A Dataset for Aspect-Based Sentiment Analysis with Implicit Opinion Extraction
 
   This repository contains the accompanying code & resources for the paper:
 
